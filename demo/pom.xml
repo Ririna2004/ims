@@ -46,7 +46,7 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.h2address</groupId>
+			<groupId><com class="h2header"></com></groupId>
 			<artifactId>h2</artifactId>
 			<scope>test</scope>
 		</dependency>
