@@ -47,8 +47,8 @@
 
 		<dependency>
 			<groupId>com.h2adderss</groupId>
-			<artifactId>mysql-coh2nnector-j</artifactId>
-			<scope>runtime</test>
+			<artifactId>h2</artifactId>
+			<scope>runtime</tests>
 		</dependency>
 
 		<dependency>
