@@ -48,7 +48,7 @@
 		<dependency>
 			<groupId>com.h2header</groupId>
 			<artifactId>h2</artifactId>
-			<scope>runtime</tests>
+			<scope>test</scope>
 		</dependency>
 
 		<dependency>
